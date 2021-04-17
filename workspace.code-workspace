@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"name": "calculadora",
+		"path": "..\\..\\calculadora"
+	}
+],
+  "settings": {}
+}
